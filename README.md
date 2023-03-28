@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1alexander3
 - 👀 I’m interested in becoming a web developer.
-- 🌱 I’m currently learning Javascript and web development from Salesforce.
-- 💞️ I’m looking to collaborate on something that a beginner with knowledge about html and CSS can help with.
+- 🌱 I’m currently learning Python and seeking opportunities in Testing, Cyber Security, Quality Assurance, Auditing, and Data Analyzing.
+- 💞️ I’m looking to collaborate on small projects that use Python or front end languages.
 - 📫 How to reach me: 1alexanderbrooks@gmail.com
 
 <!---
