@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @1alexander3
-- 👀 I’m interested in becoming a web developer.
-- 🌱 I’m currently learning Python and seeking opportunities in Testing, Cyber Security, Quality Assurance, Auditing, and Data Analyzing.
-- 💞️ I’m looking to collaborate on small projects that use Python or front end languages.
+- 👋 Hi, I’m Alexander
+- 👀 I’m interested in becoming a Data Analyst.
+- 🌱 I’m currently learning Python, SQL, and Data Analytics and Data Science.
+- 💞️ I’m looking to create more projects to showcase my growth and skills.
 - 📫 How to reach me: 1alexanderbrooks@gmail.com
 
 <!---
